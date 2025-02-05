@@ -86,6 +86,6 @@ Toutes les images doivent être placées dans le dossier `public` de votre proje
 Lors de l'affichage d'une image, utilisez un chemin strictement conforme à ce format :
 
 ```vue
-<img src="`./img/leNomDeVotreImage.jpg`" alt="image">
+<img :src="'./img/leNomDeVotreImage.jpg'" alt="Image" />
 ```
  
