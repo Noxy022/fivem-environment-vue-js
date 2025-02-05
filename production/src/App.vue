@@ -17,8 +17,6 @@
 
 
 <template>
-    <!-- exemple importation image  -->
-    <img :src="`./img/test.jpg`" alt="">
 </template>
 
  
